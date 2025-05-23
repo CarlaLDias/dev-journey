@@ -1,4 +1,3 @@
-# dev-journey
 # Minha Jornada de Desenvolvimento (dev-journey)
 
 Bem-vindo(a) ao meu repositório pessoal de aprendizado em desenvolvimento!
@@ -12,7 +11,6 @@ Este espaço serve como um diário e um centro de recursos para registrar minha 
 
 ## Conteúdo Principal:
 
--   [Conceitos de JavaScript](conceitos-js.md)
 -   [Dicionário de Termos Técnicos](dicionario-termos.md)
 -   [Meus Projetos](projetos.md)
 
