@@ -1,13 +1,17 @@
-# Minha Jornada de Desenvolvimento (dev-journey)
+# Minha Jornada de Dev-Learning: Conceitos e Insights
 
-Bem-vindo(a) ao meu repositório pessoal de aprendizado em desenvolvimento!
+## Bem-vindo(a) ao Meu Laboratório Pessoal de Conhecimento em Desenvolvimento!
 
-Este espaço serve como um diário e um centro de recursos para registrar minha evolução na programação. Aqui você encontrará:
+Este repositório é mais do que um registro de termos técnicos; ele é o **diário de bordo da minha jornada interdisciplinar** para compreender a programação, onde a **Tecnologia encontra a Educação e a Medicina**. É um espaço dedicado à **construção de conhecimento significativo**, fundamentado nos princípios da Aprendizagem Significativa e na metodologia de compreensão profunda (como o método Feynman).
 
--   Notas e conceitos importantes sobre linguagens (HTML, CSS, JavaScript) e ferramentas (Git, VS Code).
--   Pequenos projetos e exercícios que estou desenvolvendo.
--   Desafios superados e novas habilidades adquiridas.
--   Reflexões sobre o processo de aprendizado.
+Aqui você encontrará uma abordagem única, que busca:
+
+*   **Integrar Conceitos de Múltiplas Áreas:** Desmistifico a programação (HTML, CSS, JavaScript, Git, VS Code, etc.) ao conectar seus conceitos com meu **conhecimento prévio e experiência** nas áreas de educação e saúde. É dessa intersecção que nascem os **insights mais valiosos**.
+*   **Analogias Personalizadas e Relevantes:** Cada conceito é "visitado" e "redefinido" dentro do meu próprio **mapa mental**. Diferente de analogias genéricas (que poderiam vir de áreas distantes como a de um astronauta), priorizo aquelas que **ressoam profundamente com a minha vivência**, tornando o aprendizado intuitivo e duradouro.
+*   **Reflexões sobre o Processo de Aprendizado:** Documento os desafios, as "viradas de chave" no entendimento e as estratégias que utilizo para transformar informações complexas em sabedoria aplicada.
+*   **Projetos e Evolução:** Pequenos exercícios e projetos que ilustram a aplicação prática dos conceitos, evidenciando a evolução das minhas habilidades.
+
+Minha intenção é mostrar como o conhecimento se torna poderoso quando é **personalizado e conectado** à nossa própria realidade. Que este repositório inspire outros a criar seus próprios mapas mentais, redefinindo conceitos com as analogias que melhor "vistam" suas próprias experiências, seja você um chef de cozinha, um cientista, ou qualquer outra coisa!
 
 ## Conteúdo Principal:
 
