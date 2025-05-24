@@ -1,22 +1,17 @@
 # Minha Jornada de Dev-Learning: Conceitos e Insights
 
-## Bem-vindo(a) ao Meu Laboratório Pessoal de Conhecimento em Desenvolvimento!
+## Bem-vindo(a) ao Meu Repositório Pessoal de Aprendizado em Desenvolvimento!
 
-Este repositório é mais do que um registro de termos técnicos; ele é o **diário de bordo da minha jornada interdisciplinar** para compreender a programação, onde a **Tecnologia encontra a Educação e a Medicina**. É um espaço dedicado à **construção de conhecimento significativo**, fundamentado nos princípios da Aprendizagem Significativa e na metodologia de compreensão profunda (como o método Feynman).
+Este espaço é o diário da minha **jornada contínua de aprendizado em programação**, onde exploro e registro **conceitos técnicos, insights pessoais e projetos práticos**. Minha abordagem integra o conhecimento tecnológico com minhas experiências nas áreas de Educação e Medicina, buscando uma compreensão profunda e significativa.
 
-Aqui você encontrará uma abordagem única, que busca:
+### O Que Você Encontrará Aqui:
 
-*   **Integrar Conceitos de Múltiplas Áreas:** Desmistifico a programação (HTML, CSS, JavaScript, Git, VS Code, etc.) ao conectar seus conceitos com meu **conhecimento prévio e experiência** nas áreas de educação e saúde. É dessa intersecção que nascem os **insights mais valiosos**.
-*   **Analogias Personalizadas e Relevantes:** Cada conceito é "visitado" e "redefinido" dentro do meu próprio **mapa mental**. Diferente de analogias genéricas (que poderiam vir de áreas distantes como a de um astronauta), priorizo aquelas que **ressoam profundamente com a minha vivência**, tornando o aprendizado intuitivo e duradouro.
-*   **Reflexões sobre o Processo de Aprendizado:** Documento os desafios, as "viradas de chave" no entendimento e as estratégias que utilizo para transformar informações complexas em sabedoria aplicada.
-*   **Projetos e Evolução:** Pequenos exercícios e projetos que ilustram a aplicação prática dos conceitos, evidenciando a evolução das minhas habilidades.
+*   **[DICIONÁRIO DE CONCEITOS E INSIGHTS](link-para-o-dicionario-de-termos)**:
+    *   Aqui está o coração do meu aprendizado! Explore **conceitos de programação** (HTML, CSS, JavaScript, Git, VS Code, etc.) explicados através da minha **metodologia única**, com **analogias personalizadas** e reflexões sobre o processo de construção de conhecimento interdisciplinar.
+*   **[PORTFÓLIO DE PROJETOS](link-para-a-pasta-de-projetos)**:
+    *   Nesta seção, você encontrará uma coleção dos **projetos práticos** que desenvolvi. Cada projeto demonstra a aplicação dos conceitos aprendidos e minha evolução em diferentes tecnologias.
 
-Minha intenção é mostrar como o conhecimento se torna poderoso quando é **personalizado e conectado** à nossa própria realidade. Que este repositório inspire outros a criar seus próprios mapas mentais, redefinindo conceitos com as analogias que melhor "vistam" suas próprias experiências, seja você um chef de cozinha, um cientista, ou qualquer outra coisa!
-
-## Conteúdo Principal:
-
--   [Dicionário de Termos Técnicos](dicionario-termos.md)
--   [Meus Projetos](projetos.md)
+---
 
 ## Nota sobre o dicionário:
 
