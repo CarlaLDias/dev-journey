@@ -2,7 +2,7 @@
 
 Este documento contém definições e explicações de termos técnicos relacionados ao desenvolvimento web e programação.
 
-Resumo: HTML, JavaScript e a Tag <script>
+# HTML, JavaScript e a Tag <script>
 Imagine a web como um Teatro:
 
 HTML (HyperText Markup Language): É a estrutura do teatro, o palco com as cadeiras, iluminação e sinalizadores. Tudo o que você observa na página é montado pelo HTML, a base estática da cena.
