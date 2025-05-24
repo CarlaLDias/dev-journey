@@ -1,4 +1,4 @@
-# Dicionário de Termos Técnicos
+# Minha jornada de dev-learning: conceitos e insights
 
 Este documento contém definições e explicações de termos técnicos relacionados ao desenvolvimento web e programação.
 
