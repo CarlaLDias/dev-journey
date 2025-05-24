@@ -55,3 +55,7 @@ No H5P, o JavaScript não usa pop-ups para "parar o show". Em vez disso, ele usa
 Quando você pausava o vídeo e fazia uma pergunta, era o JavaScript, usando seu controle sobre o DOM e a API do vídeo, que orquestrava tudo: pausava o vídeo, criava e exibia a caixa da pergunta no palco (manipulando o DOM), esperava sua interação e, ao final, continuava o vídeo.
 É a materialização da fluidez da "pista de patinação", onde cada movimento é planejado e integrado ao espetáculo.
 
+
+## document.querySelector(): **Localizando Elementos no HTML** 
+Seria uma parte da linguagem JavaScript que permite localizar um elemento HTML, a partir do nome da Tag que se relaciona a uma das características do CSS, por exemplo h1. Para localizar, seria preciso escrever document.querySelector('h1'). Seria usado pelos mecanismos interativos de busca. OBS: para colocar no meu dicionário, qual título seria melhor. Ex: Mecanismo de busca: como funciona a lógica da programação
+
