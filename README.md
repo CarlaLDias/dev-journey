@@ -6,10 +6,12 @@ Este espaço é o diário da minha **jornada contínua de aprendizado em program
 
 ### O Que Você Encontrará Aqui:
 
-*   **[DICIONÁRIO DE CONCEITOS E INSIGHTS](link-para-o-dicionario-de-termos)**:
+*   **[DICIONÁRIO DE CONCEITOS E INSIGHTS](dicionarios-termos.md)**:
     *   Aqui está o coração do meu aprendizado! Explore **conceitos de programação** (HTML, CSS, JavaScript, Git, VS Code, etc.) explicados através da minha **metodologia única**, com **analogias personalizadas** e reflexões sobre o processo de construção de conhecimento interdisciplinar.
-*   **[PORTFÓLIO DE PROJETOS](link-para-a-pasta-de-projetos)**:
+*   **[PORTFÓLIO DE PROJETOS](projetos.md)**:
     *   Nesta seção, você encontrará uma coleção dos **projetos práticos** que desenvolvi. Cada projeto demonstra a aplicação dos conceitos aprendidos e minha evolução em diferentes tecnologias.
+
+---
 
 ---
 
