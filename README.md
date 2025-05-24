@@ -1,4 +1,4 @@
-# Minha Jornada de Dev-Learning: Conceitos e Insights
+# Minha Jornada de Dev-Learning
 
 ## Bem-vindo(a) ao Meu Repositório Pessoal de Aprendizado em Desenvolvimento!
 
