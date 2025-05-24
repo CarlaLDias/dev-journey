@@ -1,6 +1,6 @@
 # Minha Jornada de Dev-Learning: Conceitos e Insights
 
-## Bem-vindo(a) ao Meu Laboratório Pessoal de Conhecimento em Desenvolvimento!
+## Um dicionário pessoal: laboratório de conceitos e insihts (unindo a lógica de programação ao meu mapa mental) 
 
 Este repositório é mais do que um registro de termos técnicos; ele é o **diário de bordo da minha jornada interdisciplinar** para compreender a programação, onde a **Tecnologia encontra a Educação e a Medicina**. É um espaço dedicado à **construção de conhecimento significativo**, fundamentado nos princípios da Aprendizagem Significativa e na metodologia de compreensão profunda (como o método Feynman).
 
