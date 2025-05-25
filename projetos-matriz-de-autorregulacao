@@ -1,1 +1,36 @@
+# MATRIZ DE AUTORREGULAÇÃO
+
+A MATRIZ DE AUTORREGULAÇÃO foi desenvolvida em um período anterior à minha imersão em desenvolvimento, evidenciando como a tecnologia pode ser empregada para transformar processos educacionais.
+Este projeto é apresentado como uma vitrine do conhecimento prévio, demonstrando a aplicação prática de conceitos na área de Educação – auxiliando na formação docente a partir da autorregulação – e servindo de referência para o meu portfólio atual.
+
+## 1. Identificação do Produto
+Objetivos:
+•	**Auxiliar na autorregulação e na formação docente, promovendo uma prática reflexiva e autônoma por meio do uso de ferramentas tecnológicas.**
+•	**Preparar o professor para atuar nas metodologias ativas ajustando as estratégias utilizadas em sala de aula ao referencial de autorregulação: Teoria Social Cognitiva, de Albert Bandura**
+Público-alvo:
+Educadores e formadores que buscam aprimorar seus processos de ensino.
+Profissionais da área de educação interessados em processos de autorregulação e melhoria contínua.
+
+## 2. Como Funciona
+A ferramenta tem como base a integração entre o Google Forms, o Google Sheets e o Looker Studio:
+•	Um formulário Google coleta dados e percepções dos usuários.
+•	As respostas são integradas e processadas via Google Sheets, com fórmulas desenvolvidas para analisar os dados.
+•	O Looker Studio gera um dashboard interativo que apresenta de maneira visual os resultados e insights derivados das respostas.
+
+## 3. Recursos Utilizados e Desenvolvimento
+### Plataformas e Tecnologias:
+•	Google Forms para a coleta das respostas.
+•	Google Sheets para a manipulação e processamento dos dados.
+•	Looker Studio para a criação de dashboards interativos.
+### Desenvolvimento:
+O projeto foi desenvolvido com esforço conjunto entre conhecimento autodidata e apoio de ferramentas de inteligência artificial, especialmente para ajustar fórmulas e criar uma visualização eficaz operacional no dashboard.
+Apesar de ter sido iniciado antes da minha jornada como desenvolvedora, o produto tem caráter iterativo, o que permite aprimoramentos conforme evoluem meus conhecimentos e habilidades.
+
+## 4. Links Úteis e Feedback
+Formulário: 
+https://docs.google.com/forms/d/e/1FAIpQLScb0u336mz_G00RDuhtwnG6vTot8i0aEMMD_bjLFU-PCRugVg/viewform
+Dashboard: 
+https://lookerstudio.google.com/reporting/0666e0cc-328a-4759-ab2a-0e3f1b22dc29/page/jg7HF
+
+Esta seção do repositório também está aberta para receber insights, sugestões e propostas de melhorias que possam contribuir para a evolução da ferramenta. Qualquer feedback é muito bem-vindo, pois reflete o compromisso contínuo com o aprimoramento e a interatividade com a comunidade.
 
